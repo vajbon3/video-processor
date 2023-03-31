@@ -1,0 +1,11 @@
+{
+  "require": {
+    "ext-imagick": "*",
+    "ext-pdo": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Vanilla\\": "src/"
+    }
+  }
+}
